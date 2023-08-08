@@ -1,0 +1,23 @@
+                       vmetadata = MetaData()
+engine = create_engine('sqlite:///user_database', connect_args={'check_same_thread': False}, echo=False)  # echo=False
+Base = declarative_base()
+db_session = sessionmaker(bind=engine)()
+
+
+# Table city
+class City(Base):
+    _tablename_ = 'city'
+    city_id = Column(Integer, primary_key=True)
+    city_name = Column(String)
+    city_climate = Column(String)
+    city_meteo_data = relationship("Meteo", backref="city")
+
+
+# Table meteo
+class Meteo(Base):
+    _tablename_ = 'meteo'
+    id = Column(Integer, primary_key=True)
+    city_id = Column(ForeignKey('city.city_id'))
+    month = Column(String)
+    average_humidity = Column(Integer)
+    average_temperature = Column(Float)
