@@ -2,7 +2,7 @@ import numpy as np
 from PIL import Image
 
 class Canvas:
-    def __int__(self,height,width,color):
+    def __int__(self,height,width,color,*args):
         self.color=color
         self.height=height
         self.width=width

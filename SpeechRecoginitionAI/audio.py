@@ -21,4 +21,3 @@ def play_audio(filename):
     pa.terminate()
 
 play_audio('be-gentle-with-yourself-485.mp3')
-def 

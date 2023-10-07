@@ -42,6 +42,11 @@ def count_down(count):
         window.after(1000,count_down,count-1)
     else:
         start_timer()
+
+#---------------------------RESET SETUP--------------------------------#
+
+
+
 # ---------------------------- UI SETUP ------------------------------- #
 
 window=Tk()

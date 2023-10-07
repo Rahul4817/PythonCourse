@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93b4b077-957e-47cb-b415-03103ac0e18a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataStructure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PythonTopic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mysite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_oops/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python_oops/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../snake/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructure/Array/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructure/Array/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eshop/better.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Eshop/better.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagebyPython/.idea/ImagebyPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagebyPython/.idea/ImagebyPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImagebyPython/Painting/canvas3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ImagebyPython/Painting/canvas3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTopic/.idea/PythonTopic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTopic/.idea/PythonTopic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PythonTopic/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PythonTopic/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SpeechRecoginitionAI/audio.py" beforeDir="false" afterPath="$PROJECT_DIR$/../SpeechRecoginitionAI/audio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/.idea/TkinterWork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/.idea/TkinterWork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/Mile_to_kilometres_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/Mile_to_kilometres_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/PasswordManager/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/PasswordManager/data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/PasswordManager/passwordmanager.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/PasswordManager/passwordmanager.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/Promodoro-Start/promodoro-start.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/Promodoro-Start/promodoro-start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/Send_mails/sendmail_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/Send_mails/sendmail_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TkinterWork/Turtle/turtle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper/.idea/WebScraper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper/.idea/WebScraper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebScraper/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../WebScraper/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/college.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../college/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../TkinterWork/minicalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/forFun.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/.idea/python_oops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonTips/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonTips/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonTips/.idea/pythonTips.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonTips/.idea/pythonTips.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonTips/convertor/writing_convertor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonTips/convertor/writing_convertor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/ClassandObject.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/ClassandObject.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/class####object.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/class####object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polyMethodoverriding.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polyMethodoverriding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polymorinInherit.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polymorinInherit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polywithobjandfuction.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/polywithobjandfuction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/typeofpolymor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_oops/Class&amp;Objects/typeofpolymor.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2MHi7XnB5PxZacso3jVMovG8EkZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/rahul/PycharmProjects/PythonTopic",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="forFun" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93b4b077-957e-47cb-b415-03103ac0e18a" name="Changes" comment="" />
+      <created>1677430741988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677430741988</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
