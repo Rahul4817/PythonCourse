@@ -1,3 +1,6 @@
+
+# Polymorphism with runtime
+
 class Method:
     def __init__(self,name):
         self.name=name
@@ -23,6 +26,9 @@ driver=Driver("Rahul kumar","041")
 print(method.get_details())
 print(driver.get_details())
 
+
+
+# Polymorphism with function
 
 class Animal:
     def speak(self):
